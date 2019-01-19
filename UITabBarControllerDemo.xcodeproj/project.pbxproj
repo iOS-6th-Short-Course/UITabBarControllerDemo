@@ -13,6 +13,7 @@
 		0775A9BC21F2B18B0063B513 /* UITabBarControllerDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0775A9BA21F2B18B0063B513 /* UITabBarControllerDemo.xcdatamodeld */; };
 		0775A9BE21F2B18C0063B513 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0775A9BD21F2B18C0063B513 /* Assets.xcassets */; };
 		0775A9C121F2B18C0063B513 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0775A9BF21F2B18C0063B513 /* LaunchScreen.storyboard */; };
+		0775A9C921F2B4AF0063B513 /* Settings.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0775A9C821F2B4AF0063B513 /* Settings.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0775A9BD21F2B18C0063B513 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0775A9C021F2B18C0063B513 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0775A9C221F2B18C0063B513 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0775A9C821F2B4AF0063B513 /* Settings.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Settings.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0775A9B321F2B18B0063B513 /* AppDelegate.swift */,
 				0775A9B521F2B18B0063B513 /* ViewController.swift */,
 				0775A9B721F2B18B0063B513 /* Main.storyboard */,
+				0775A9C821F2B4AF0063B513 /* Settings.storyboard */,
 				0775A9BD21F2B18C0063B513 /* Assets.xcassets */,
 				0775A9BF21F2B18C0063B513 /* LaunchScreen.storyboard */,
 				0775A9C221F2B18C0063B513 /* Info.plist */,
@@ -128,6 +131,7 @@
 				0775A9C121F2B18C0063B513 /* LaunchScreen.storyboard in Resources */,
 				0775A9BE21F2B18C0063B513 /* Assets.xcassets in Resources */,
 				0775A9B921F2B18B0063B513 /* Main.storyboard in Resources */,
+				0775A9C921F2B4AF0063B513 /* Settings.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
